@@ -40,11 +40,9 @@ python multitoken.py -c <blockchain> -f <wallet.txt>
 ```shell
 python3 multitoken.py -c <blockchain> -f <wallet.txt>
 ```
-> List Command Options
+> List Other Command Options
 - Get Blockchain Id
 > --blockchain
-- Scan Token
-> -c <blockchain> -f <wallet.txt>
 - Clear Saved Token Data (listoken.txt)
 > --clear
 - See full help usage
