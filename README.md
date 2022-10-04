@@ -1,7 +1,8 @@
 # Simple Token Scanner Multi Blockchain 
 **Tested On:** ![python](https://badgen.net/badge/python/3.10/blue?icon=pypi&cache=500)
 
-Hello there today I create simple tools that can `check` available all token on your `wallet` with multi blockchain ie: <br>
+Hello there today I create simple tools that can `check` available all token on your `wallet` with multi blockchain such as: 
+
 - [Ethereum](https://ehterscan.io/)
 - [Binance Smartchain](https://bscsan.com/)
 - [Polygon](https://polygonscan.com/) (`This chain error due that network behind Cloudflare network in Under Attack Mode`)
