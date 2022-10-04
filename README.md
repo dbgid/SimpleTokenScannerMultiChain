@@ -21,6 +21,7 @@ Make sure you has install dependency module below
 - ![requests](https://badgen.net/badge/requests/2.28.1/blue?icon=pypi&cache=500)
 - ![bs4](https://badgen.net/badge/bs4/0.0.1/blue?icon=pypi&cache=500)
 - ![colorama](https://badgen.net/badge/colorama/0.4.5/blue?icon=pypi&cache=500)
+
 install them on your linux manchine by following command in ![terminal](https://badgen.net/badge/icon/terminal?icon=terminal&label&cache=500)
 
 ```shell
