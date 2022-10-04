@@ -4,7 +4,7 @@
 Hello there today I create simple tools that can `check` available all token on your `wallet` with multi blockchain such as: 
 
 - [Ethereum](https://ehterscan.io/)
-- [Binance Smartchain](https://bscsan.com/)
+- [Binance Smartchain](https://bscscan.com/)
 - [Polygon](https://polygonscan.com/) (`This chain error due that network behind Cloudflare network in Under Attack Mode`)
 - [AVAX Chain](https://snowtrace.com/)
 - [Fantom](https://ftmscan.com/)
